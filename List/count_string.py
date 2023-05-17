@@ -9,7 +9,7 @@ def count_words(p_list):
         if len(i) >= 2:
             if i[0] == i[-1]:
                 total = list.append(i)
-    print(len(list))
+    print(list)
 
 
 list1 = ['cbc', 'xyz', 'aba', '2332', 'abc']
